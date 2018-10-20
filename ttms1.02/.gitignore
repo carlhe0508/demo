@@ -8,3 +8,5 @@
 out
 gen
 *.war
+src/test/
+target/
